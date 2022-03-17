@@ -14,7 +14,7 @@ public class Principal {
 		// primitivos
 		int numero;
 		numero = 20;
-		System.out.print("*************************************************************************\n" );
+		System.out.print("************************************************************************************\n" );
 		System.out.print("*\t nombre      \ttipo                      \trango             \tejemplo\n");
 
 		System.out.print("*\t int      \tNumero entero     \t-2147483 a 2147483        \t"+ numero);             
@@ -44,6 +44,7 @@ public class Principal {
 		char n6;
 		n6 ='h'; 
 		System.out.print("\n*\tchar     \tcaracter          \tu0000 a uffff                  \t" + n6);
+		
 
 	}
 
